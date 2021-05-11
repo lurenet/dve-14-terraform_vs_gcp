@@ -1,0 +1,7 @@
+*
+!.gitignore
+!*.tf
+!*.tfvars
+!source
+!source/*
+!README.md
